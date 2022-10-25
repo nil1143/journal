@@ -1,0 +1,31 @@
+/* JOURNAL */
+
+.journal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid #F5F5F5;
+    padding: 10px;
+}
+
+.content {
+    margin-left: 15px;
+    margin-top: 20px
+}
+
+
+.journal-section {
+    width: 550px;
+}
+
+.bar {
+  
+    height: 55px;
+    background-color: #F55A5A;
+    border-radius: 8px 8px 0px 0px;
+    text-align: center;
+    padding-top: 5px;
+    color: white;
+}
+
+
